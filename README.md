@@ -15,6 +15,8 @@
 <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" align="center" alt="NodeJs"/>
 </div> <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PFelipe15&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 Programação mudou minha vida, meu jeito de pensar e resolver as coisas, programação não é só codigos e linguagens.
 
 E-mail para contato📧: <Br/>
